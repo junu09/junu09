@@ -1,16 +1,34 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JunWoo%20JANG&fontSize=80)
 
-<!--
-**junu09/junu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+👋 Hi there 👋  <br>
+My name is Junwoo Jang and I am studying backend.<br>
+I am ready to study anything to become a good developer<br>
+</p><br>
 
-Here are some ideas to get you started:
+<p align="center">🇰 🇷</p><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br><br>
+    💡 Techs that I've used at least once 
+</p>
+
+<p align="center" display="inline-block">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
+   <br>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  
+</p><br>
+
+<h3 align="center"> 🪄 Me 🪄 </h3>
+<p align="center">
+  <a href="https://www.instagram.com/wnsdnn_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <a href="mailto:junwoo0909@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+</p>
+<br>
